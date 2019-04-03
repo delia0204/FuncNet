@@ -1,3 +1,4 @@
-# CTF
+# FuncNet
 
-PWN + REVERSE
+data: updating
+prototype: three components in FuncNet
