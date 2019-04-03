@@ -1,0 +1,3 @@
+#init: put binary in binary
+#attention: strip file_name get name[0]
+python auto_feature.py

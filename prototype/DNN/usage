@@ -1,0 +1,4 @@
+
+put feature(json) into graph_data
+
+auto
