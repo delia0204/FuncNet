@@ -1,14 +1,20 @@
 # FuncNet
-A Euclidean Embedding Approach for Lightweight Cross-platform Binary Recognize
+binary association analysis based on the 
 
-## two neural network models:
+
+## dataset:
+    1.extend dataset from Gemimi
+    2.dataset includes three kinds of semantic types (i.e., loop, branch, and interaction)
+    3.dateset from four real-world projets (i.e., zlib, lua, gzip, curl)
+    
+## prototype:
+### Features:
+    basic block attributes based on IDA interface
+    control flow graph based on IDA interface
+    callee's interface based on function frame and registers' use-before-write feature
+
 ### Graph embedding neural network based on structure2vec
-trained model in saved_model
+trained model in saved_model, just test on it.
 
 ### Popsom based on Self-orgnization model
-trained model in saved_model
-
-## Features:
-basic block attributes based on IDA interface
-control flow graph based on IDA interface
-callee's interface based on function frame and registers' use-before-write feature
+trained model in saved_model, test on it.
