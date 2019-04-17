@@ -1,6 +1,5 @@
 # FuncNet
-binary association analysis based on the 
-
+binary association analysis based on the knowledge base, which recognize those duplicated or known parts of binary compiled from various platforms.
 
 ## dataset:
     1.extend dataset from Gemimi
