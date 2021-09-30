@@ -2,7 +2,7 @@
 binary association analysis based on the knowledge base, which recognize those duplicated or known parts of binary compiled from various platforms.
 
 ## dataset:
-    1.extend dataset from Gemimi
+    1.extend dataset from Gemini
     2.dataset includes three kinds of semantic types (i.e., loop, branch, and interaction)
     3.dateset from four real-world projets (i.e., zlib, lua, gzip, curl)
     
